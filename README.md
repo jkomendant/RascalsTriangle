@@ -42,3 +42,7 @@ For each data set there is one line of output. It contains the data set number, 
 space which is then followed by the Rascal Triangle entry R(n,m) accurate to the nearest integer value.
 
 ![](RascalTriangleInputOutputSample.PNG)
+
+##### Contributer:
+
+Jennifer Komendant
