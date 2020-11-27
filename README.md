@@ -1,4 +1,4 @@
-##Implementation in Touro's MCO364 of the following problem:
+## Implementation in Touro's MCO364 of the following problem:
 
 Compute the integer contained in the specified row and column of The Rascal Triangle.
 
@@ -28,7 +28,7 @@ R(n+1,m+1) = (R(n,m) * R(n,m+1) + 1)/R(n-1, m)
        
 Write a program which computes R(n,m) the m<sup>th</sup> element of the n<sup>th</sup> row of the Rascal Triangle.
 
-####Input
+#### Input
 
 The first line of input contains a single integer P, (1 <u><</u> P <u><</u> 1000), which is the number
 of data sets that follow. Each data set is a single line of input consisting of 3 space
@@ -36,9 +36,13 @@ separated decimal integers. The first integer is data set number, N. The second 
 number n, and the third integer is the index m within the row of the entry for which you are to find R(n,m)
 the Rascal Triangle entry (0 <u><</u> n <u><</u> 50000).
 
-####Output
+#### Output
 
 For each data set there is one line of output. It contains the data set number, N, followed by a single
 space which is then followed by the Rascal Triangle entry R(n,m) accurate to the nearest integer value.
 
 ![](RascalTriangleInputOutputSample.PNG)
+
+##### Contributer:
+
+Jennifer Komendant
